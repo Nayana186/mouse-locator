@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { saveMouseStats } from "./firebase";
+
 
 export default function App() {
   const [pos, setPos] = useState({ x: 0, y: 0 });
@@ -76,7 +78,7 @@ export default function App() {
       onClick={changeCursor}
       style={{ cursor: cursorStyle }}
     >
-      <h1>🎯 Mouse Locator 3000</h1>
+      <h1>Mouse Locator </h1>
       <p>Position: X: {pos.x}px | Y: {pos.y}px</p>
       <p>Speed: {speed}px/s — {getSpeedLabel()}</p>
       <p>Total Distance Traveled: {Math.round(totalDistance)} pixels 🏃‍♂️</p>
