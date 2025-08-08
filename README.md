@@ -23,6 +23,7 @@ The Solution (that nobody asked for)
 
 Technical Details
 Technologies/Components Used
+
 For Software:
 - [HTML,CSS,JAVA]
 - [React]
@@ -31,11 +32,13 @@ For Software:
 
 Implementation
 For Software:
+
 [Armed with React, Firebase, and way too much free time, we crafted a masterpiece of digital overkill. We attached a live mouse radar, built a Lost & Found panic button, measured pointer speed like it’s training for the Olympics, and even threw in fake error pop-ups for dramatic flair. Every mouse wiggle is logged in a global database—because somewhere, someone needs to know your cursor just moved 2 centimeters]
 
 
 Demo Video
 https://drive.google.com/file/d/1dYwxTxK_ZW-WqSDYHRh0qwLP3bMVH5Nv/view?usp=sharing
+
 Screen Shots
 https://drive.google.com/file/d/1jaKjpg3rfiCOkfm0I52e-mSBiGQuxkNk/view?usp=sharing
 https://drive.google.com/file/d/1SA6k-l8TKXq33Zy-ASWknNtGVYZFXdo8/view?usp=sharing
