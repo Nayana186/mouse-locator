@@ -10,12 +10,15 @@ Team Members
 - Member 2: [Anolit Saju] - [Mar Athanasius College of Engineering ,Kothamangalam]
 
 Project Description
+
 [‘Eli Finder’ is a fun, interactive web app that tracks your pointer’s position, speed, and distance traveled in real-time. It adds playful alerts, cursor changes, and a global ‘mouse lost’ counter to turn simple mouse movement into pure entertainment.]
 
  The Problem (that doesn't exist)
+
 [In a world where computer mice frequently attempt daring escapes from their screens, users are left clueless about their pointer’s whereabouts and fitness levels.]
 
 The Solution (that nobody asked for)
+
 [Our mission: to track, tame, and train these mischievous mice before they run a marathon across the monitor border.We’ve built a high-tech, over-engineered React web app that uses radar visuals, fake alerts, and totally unnecessary metrics to track your mouse’s every move. From pinpointing its exact location to measuring its ‘daily workout,’ we make sure your pointer never goes unnoticed—solving a problem that never existed in the first place.]
 
 Technical Details
